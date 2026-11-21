@@ -2,6 +2,17 @@
 
 A responsive, interactive book search application built with **React, JavaScript, and the Open Library API**. Users can search for books by title or author and retrieve relevant results, including book titles, authors, and publication years.
 
+
+
+## 📸 Application Screenshots
+
+### Book Search Interface
+![Book Search Application Screenshot 1](BookSearchProject1.png)
+
+### Search Results
+![Book Search Application Screenshot 2](BookSearchProject2.png)
+
+
 This project was developed as part of my **AAS in AI Software Engineering at Maestro College**, demonstrating practical frontend development, third-party API integration, and React state management.
 
 ## 🚀 Features
